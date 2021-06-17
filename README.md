@@ -4,4 +4,4 @@ This is a repo of different literary resources ranging from different subjects l
 
 i) Maths
 ii) Data Science
-iii) Cosomology
+iii) Cosmology
